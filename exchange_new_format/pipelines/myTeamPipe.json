@@ -1,0 +1,15 @@
+{
+    "category": "General",
+    "description": "",
+    "name": "myTeamPipe",
+    "phases": [
+        {
+            "stages": [
+                {
+                    "steps": []
+                }
+            ]
+        }
+    ],
+    "team": "Team11"
+}
