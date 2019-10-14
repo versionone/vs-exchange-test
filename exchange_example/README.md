@@ -1,8 +1,2 @@
 This is an example for the vs-exchange.
-It contains:
-  1) a readme to explain what this downloadable is,
-  2) a tar that Continuum knows how to install,
-  3) a src folder containing the Continuum assets as json. This is what makes up the tar file.
-
-To Install:
-  TBD - please come back later
+It contains a README.md file to provide a brief description of this add-on, as well as a project, a package, a pipeline, a task, a canvas, and a registry document. Please use this as a guideline for how to structure new add-ons that you wish to submit to the exchange.
