@@ -1,5 +1,5 @@
-# vs-exchange
-A place to exchange VersionOne VS automation and other system customizations.
+# vs-exchange-test
+A place to test vs exchange feature changes.
 
 ## What should an item that I want to add to the exchange contain?
 An exchange item should include three things:
