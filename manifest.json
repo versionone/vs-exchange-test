@@ -21,6 +21,28 @@
           }
         ]
       }
+    },
+    {
+      "name": "exchange_example_two",
+      "desc": "This is an example for the vs-exchange. It contains a README.md file to provide a brief description of this add-on, as well as a project, a package, a pipeline, a task, a canvas, and a registry document. Please use this as a guideline for how to structure new add-ons that you wish to submit to the exchange.",
+      "contents": {
+        "packages": ["myTeamPkgTwo.json"],
+        "pipelines": ["myTeamPipeTwo.json"],
+        "projects": ["myTeamProjTwo.json"],
+        "registries": ["myRegistryTwo.json"],
+        "tasks": ["myTeamTaskTwo.json"],
+        "canvases": [
+          {
+            "project_name": "proj_exchange_demo_two",
+            "components": [
+              {
+                "component_name": "comp_demo_two",
+                "contents": ["item_port.css", "item_port.html", "item_port.js", "item_port.layout", "item_quort.css"]
+              }
+            ]
+          }
+        ]
+      }
     }
   ]
-}  
+}
