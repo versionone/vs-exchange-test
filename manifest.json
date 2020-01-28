@@ -1,5 +1,71 @@
 {
   "add_ons": [
+  	{
+      "name": "exchange_example_five",
+      "desc": "This is an example for the vs-exchange. It contains a README.md file to provide a brief description of this add-on, as well as a project, a package, a pipeline, a task, a canvas, and a registry document. Please use this as a guideline for how to structure new add-ons that you wish to submit to the exchange.",
+      "contents": {
+        "packages": ["myTeamPkgFive.json"],
+        "pipelines": ["myTeamPipeFive.json"],
+        "projects": ["myTeamProjFive.json"],
+        "registries": ["myRegistryFive.json"],
+        "tasks": ["myTeamTaskFive.json"],
+        "canvases": [
+          {
+            "project_name": "proj_exchange_demo_five",
+            "components": [
+              {
+                "component_name": "comp_demo_five",
+                "contents": ["item_port.css", "item_port.html", "item_port.js", "item_port.layout", "item_quort.css"]
+              }
+            ]
+          }
+        ]
+      }
+    },
+  	{
+      "name": "exchange_example_four",
+      "desc": "This is an example for the vs-exchange. It contains a README.md file to provide a brief description of this add-on, as well as a project, a package, a pipeline, a task, a canvas, and a registry document. Please use this as a guideline for how to structure new add-ons that you wish to submit to the exchange.",
+      "contents": {
+        "packages": ["myTeamPkgFour.json"],
+        "pipelines": ["myTeamPipeFour.json"],
+        "projects": ["myTeamProjFour.json"],
+        "registries": ["myRegistryFour.json"],
+        "tasks": ["myTeamTaskFour.json"],
+        "canvases": [
+          {
+            "project_name": "proj_exchange_demo_four",
+            "components": [
+              {
+                "component_name": "comp_demo_four",
+                "contents": ["item_port.css", "item_port.html", "item_port.js", "item_port.layout", "item_quort.css"]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "name": "exchange_example_three",
+      "desc": "This is an example for the vs-exchange. It contains a README.md file to provide a brief description of this add-on, as well as a project, a package, a pipeline, a task, a canvas, and a registry document. Please use this as a guideline for how to structure new add-ons that you wish to submit to the exchange.",
+      "contents": {
+        "packages": ["myTeamPkgThree.json"],
+        "pipelines": ["myTeamPipeThree.json"],
+        "projects": ["myTeamProjThree.json"],
+        "registries": ["myRegistryThree.json"],
+        "tasks": ["myTeamTaskThree.json"],
+        "canvases": [
+          {
+            "project_name": "proj_exchange_demo_three",
+            "components": [
+              {
+                "component_name": "comp_demo_three",
+                "contents": ["item_port.css", "item_port.html", "item_port.js", "item_port.layout", "item_quort.css"]
+              }
+            ]
+          }
+        ]
+      }
+    },
     {
       "name": "exchange_example_two",
       "desc": "This is an example for the vs-exchange. It contains a README.md file to provide a brief description of this add-on, as well as a project, a package, a pipeline, a task, a canvas, and a registry document. Please use this as a guideline for how to structure new add-ons that you wish to submit to the exchange.",
