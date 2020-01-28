@@ -2,7 +2,7 @@
   "add_ons": [
   	{
       "name": "exchange_example_five",
-      "desc": "This is an example for the vs-exchange. It contains a README.md file to provide a brief description of this add-on, as well as a project, a package, a pipeline, a task, a canvas, and a registry document. Please use this as a guideline for how to structure new add-ons that you wish to submit to the exchange.",
+      "desc": "This is an example for the vs-exchange. It contains a README.md file to provide a brief description of this add-on, as well as a project, a package, a pipeline, a task, a canvas, and a registry document. Please use this as a guideline for how to structure new add-ons that you wish to submit to the exchange. This description contains some extra text. This should not throw off the formatting in Continuum",
       "contents": {
         "packages": ["myTeamPkgFive.json"],
         "pipelines": ["myTeamPipeFive.json"],
@@ -46,7 +46,7 @@
     },
     {
       "name": "exchange_example_three",
-      "desc": "This is an example for the vs-exchange. It contains a README.md file to provide a brief description of this add-on, as well as a project, a package, a pipeline, a task, a canvas, and a registry document. Please use this as a guideline for how to structure new add-ons that you wish to submit to the exchange.",
+      "desc": "This is an example for the vs-exchange. It contains a README.md file to provide a brief description of this add-on, as well as a project, a package, a pipeline, a task, a canvas, and a registry document. Please use this as a guideline for how to structure new add-ons that you wish to submit to the exchange. This description contains some extra text. This should not throw off the formatting in Continuum",
       "contents": {
         "packages": ["myTeamPkgThree.json"],
         "pipelines": ["myTeamPipeThree.json"],
