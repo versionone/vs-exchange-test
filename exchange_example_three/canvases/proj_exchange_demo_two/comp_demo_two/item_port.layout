@@ -1,0 +1,23 @@
+{
+    "type": "template",
+    "include_html_markup": true,
+    "libs": [],
+    "styles": [
+        {
+            "name": "port.css"
+        },
+        {
+            "name": "quort.css"
+        }
+    ],
+    "templates": [
+        {
+            "name": "port.html"
+        }
+    ],
+    "scripts": [
+        {
+            "name": "port.js"
+        }
+    ]
+}

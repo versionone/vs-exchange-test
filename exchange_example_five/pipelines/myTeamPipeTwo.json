@@ -1,0 +1,15 @@
+{
+    "category": "General",
+    "description": "This is the Test version of this asset",
+    "name": "myTeamPipeTwo",
+    "phases": [
+        {
+            "stages": [
+                {
+                    "steps": []
+                }
+            ]
+        }
+    ],
+    "team": "Team11"
+}
